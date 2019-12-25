@@ -10,3 +10,5 @@ https://docs.docker.com/docker-for-windows/
 https://docs.docker.com/get-started/
 
 https://hub.docker.com/
+
+https://docs.docker.com/engine/reference/commandline/pull/
